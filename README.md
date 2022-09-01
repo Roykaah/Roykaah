@@ -2,11 +2,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Evandro Popadiuk Royka</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Roykaah&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Computer science student
+- 🔥 Information Systems student
 
 - 🔭 I’m currently working at <a href="https://portal.tcu.gov.br/inicio/index.htm">Tribunal de Contas da União</a>
 
-- 👨‍💻 Focusing my studies in Web Development and Data Science
+- 👨‍💻 Focusing my studies in Web Development and Artificial Intelligence
 
 
 
@@ -18,7 +18,7 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
 ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
 
@@ -35,17 +35,10 @@
 
 ## Contact
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/Roykaah" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Roykaah-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Roykaah-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-winderfeld-bussolotto-aaa914145/" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-winderfeld-bussolotto-aaa914145](https://www.linkedin.com/in/evandro-royka-3b6b89217/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Roykaah-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/Roykaah" target="_blank">
+<a href="https://www.instagram.com/_roykao/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Roykaah-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
