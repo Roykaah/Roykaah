@@ -35,7 +35,7 @@
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-winderfeld-bussolotto-aaa914145](https://www.linkedin.com/in/evandro-royka-3b6b89217/" target="_blank">
+<a href="https://www.linkedin.com/in/evandro-royka-3b6b89217/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Roykaah-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/_roykao/" target="_blank">
